@@ -16,15 +16,15 @@ This robot is coded with an Arduino Nano chip, having the abilities of avoiding 
 
 ## Front View
 
-![Robot Front View](Robot%20Images/Front%20Robot%20View.jpg)
+![Front Robot View](Robot%20Images/Front%20Robot%20View.jpg)
 
 ## Side View
 
-![Robot Side View](Robot%20Images/Side%20Robot%20View.jpg)
+![Side Robot View](Robot%20Images/Side%20Robot%20View.jpg)
 
 ## Top View
 
-![Robot Top View](Robot%20Images/Top%20Robot%20View.jpg)
+![Top Robot View](Robot%20Images/Top%20Robot%20View.jpg)
 
 ## Infrared Sensor View
 
