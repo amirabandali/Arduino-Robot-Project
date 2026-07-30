@@ -58,11 +58,13 @@ The code for this project is located in the **Arduino Code** folder.
 # Demonstration Videos
 
 ## Ultrasonic Sensor Demo
+https://github.com/user-attachments/assets/26a60a9e-3008-4b68-afe5-da1c0ca269a3
 
-[Watch Ultrasonic Sensor Test](Robot%20Demo%20Videos/Arduino%20Ultrasonic%20Sensor%20Test.mp4)
+
 
 ## Infrared Sensor Demo
+https://github.com/user-attachments/assets/cd324965-c6b5-48d2-9950-07af9328ddbe
 
-[Watch Infrared Sensor Test](Robot%20Demo%20Videos/Arduino%20Infrared%20Sensor%20Test.mp4)
+
 
 ---
