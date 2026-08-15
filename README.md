@@ -2,7 +2,7 @@
 
 ## Overview
 
-This robot is coded with an Arduino Nano chip, having the abilities of avoiding obstacles and staying only on black-coloured surfaces using ultrasonic and infrared sensors.
+This robot is coded with an Arduino Nano board, having the abilities of avoiding obstacles and staying only on black-coloured surfaces using ultrasonic and infrared sensors.
 
 ## Features
 
