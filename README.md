@@ -28,7 +28,7 @@ This robot is coded with an Arduino Nano board, having the abilities of avoiding
 
 ## Infrared Sensor View
 
-![Infrared Sensor View](Robot%20Images/Infrared%20Sensor%20View.jpg)
+![Infrared Sensor View](Robot%20Images/Infrared%20Sensor%20View.png)
 
 ---
 
